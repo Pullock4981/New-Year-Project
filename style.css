@@ -206,6 +206,16 @@
     /* margin-bottom: 130px; */
 }
 
+.icon{
+    margin-top: 16px;
+    width: 175px;
+    height: 46px;
+}
+
+.icon a{
+    margin-right: 7px;
+}
+
 .footer-form-heading{
     color: #FFF;
     font-size: 25px;
