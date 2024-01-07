@@ -15,6 +15,17 @@
     margin-right: 7px;
 }
 
+.btn{
+    border-radius: 5px;
+    background: white;
+    border: 0;
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 18px 35px;
+    margin-right: 7px;
+}
+
 /* header */
 
 .header-section {
@@ -151,12 +162,23 @@
 }
 
 .plan-big-img{
-    background-image: url('images/watch.png');
+    background-image:url('images/gradient2.png'),url('images/watch.png');
     background-repeat: no-repeat;
     margin-top: 130px;
     margin-right: 220px;
     margin-left: 220px;
+    height: 400px;
+    
 }
+
+.big-img-text{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 60px;
+    margin-right: 500px;
+    padding-top: 50px;
+    }
 
 /* footer */
 
@@ -241,4 +263,9 @@
 
 #sub-btn{
     margin-top: 16px;
+}
+
+#s-btn{
+    margin-left: 60px;
+    margin-top: 24px;
 }
